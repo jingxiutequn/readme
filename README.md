@@ -1,6 +1,6 @@
 企鹅币圈
 --------
-<img src="img/qier.png"/><p/>
+<a href="https://github.com/jingxiutequn/qier"><img src="img/qier.png"/></a>a><p/>
 趣投币圈
 --------
 <img src="img/qutou.png"/><p/>
