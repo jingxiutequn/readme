@@ -1,5 +1,8 @@
 程序目录大全
 ==========
+扎金花玩法
+----------
+<a href="https://github.com/jingxiutequn/jinghua"><img src="img/jinghua.png"/></a><p/>
 企鹅币圈
 --------
 <a href="https://github.com/jingxiutequn/qier"><img src="img/qier.png"/></a><p/>
